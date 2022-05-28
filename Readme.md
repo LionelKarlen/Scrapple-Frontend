@@ -26,7 +26,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">Scrapple-Frontend</h3>
+<h2 align="center">Scrapple-Frontend</h2>
 
   <p align="center">
   Svelte Frontend based on the Scrapple-Lib Library
@@ -72,6 +72,11 @@
 ### Built With
 
 -   [Svelte](https://svelte.dev/)
+-   [Typescript](https://www.typescriptlang.org/)
+-   [Pagejs](https://visionmedia.github.io/page.js/)
+-   [ESLint](https://eslint.org/)
+-   [Prettier](https://prettier.io/)
+-   [Husky](https://typicode.github.io/husky/#/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -85,7 +90,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/LionelKarlen/Scrapple-Lib.git
+    git clone https://github.com/LionelKarlen/Scrapple-Frontend.git
     ```
 2. Install packages
     ```sh
@@ -137,8 +142,6 @@ Distributed under the MIT License. See [LICENSE.txt](./License.txt) for more inf
 ## Acknowledgments
 
 -   [Readme Template](https://github.com/othneildrew/Best-README-Template)
--   []()
--   []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
