@@ -1,7 +1,7 @@
 import type Route from 'src/types/Route';
 import page from 'page';
 import { activeRoute } from './store';
-import Gameview from '../lib/components/Gameview.svelte';
+import Gameview from '../lib/views/Gameview.svelte';
 
 export const routes: Route[] = [{ name: '/game', component: Gameview }];
 
