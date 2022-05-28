@@ -1,6 +1,7 @@
 <script lang="ts">
 	import logo from './assets/svelte.png';
 	import Router from './lib/components/Router.svelte';
+	import 'carbon-components-svelte/css/white.css';
 </script>
 
 <main>
