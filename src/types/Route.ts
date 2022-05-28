@@ -1,4 +1,6 @@
+import type { SvelteComponent } from 'svelte';
+
 export default interface Route {
 	name: string;
-	component: any;
+	component: typeof SvelteComponent;
 }

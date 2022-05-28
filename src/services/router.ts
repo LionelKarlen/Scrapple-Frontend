@@ -6,7 +6,7 @@ import Gameview from '../lib/components/Gameview.svelte';
 export const routes: Route[] = [{ name: '/game', component: Gameview }];
 
 function registerRoute(route: Route) {
-	page(route.name, (ctx) => {
+	page(route.name, () => {
 		activeRoute.set({
 			name: route.name,
 			component: route.component,
