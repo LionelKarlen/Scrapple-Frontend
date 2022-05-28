@@ -7,8 +7,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -17,13 +15,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -42,8 +39,6 @@
     <a href="https://github.com/LionelKarlen/Scrapple-Frontend/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -68,20 +63,20 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
+
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+
 ### Built With
 
-* [Svelte](https://svelte.dev/)
+-   [Svelte](https://svelte.dev/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -112,9 +107,8 @@ See the [open issues](https://github.com/LionelKarlen/Scrapple-Frontend/issues) 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -130,8 +124,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 
 ## License
@@ -141,18 +133,18 @@ Distributed under the MIT License. See [LICENSE.txt](./License.txt) for more inf
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [Readme Template](https://github.com/othneildrew/Best-README-Template)
-* []()
-* []()
+-   [Readme Template](https://github.com/othneildrew/Best-README-Template)
+-   []()
+-   []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/LionelKarlen/Scrapple-Frontend.svg?style=for-the-badge
 [contributors-url]: https://github.com/LionelKarlen/Scrapple-Frontend/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/LionelKarlen/Scrapple-Frontend.svg?style=for-the-badge

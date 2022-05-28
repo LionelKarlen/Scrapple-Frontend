@@ -1,4 +1,4 @@
 export default interface Route {
-	name:string,
-	component:any
+	name: string;
+	component: any;
 }
