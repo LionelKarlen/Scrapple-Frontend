@@ -16,4 +16,8 @@ module.exports = {
 	settings: {
 		'svelte3/typescript': true,
 	},
+	env: {
+		browser: true,
+		node: true,
+	},
 };
