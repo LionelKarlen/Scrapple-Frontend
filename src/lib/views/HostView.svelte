@@ -9,7 +9,7 @@
 	import page from 'page';
 	import type { Difficulty } from '../../types/Difficulty';
 	import { globalDifficulty, globalLanguage } from '../../services/store';
-	import type { Language } from '../../types/Language';
+	import type { Language } from 'scrapple-lib/types/Language';
 
 	const languages = [
 		{
@@ -19,6 +19,10 @@
 		{
 			name: 'German',
 			value: 'de',
+		},
+		{
+			name: 'French',
+			value: 'fr',
 		},
 	];
 
